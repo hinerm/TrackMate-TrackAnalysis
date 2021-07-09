@@ -72,8 +72,8 @@
 		<url>https://github.com/tinevez/TrackMate-TrackAnalysis/issues</url>
 	</issueManagement>
 	<ciManagement>
-		<system>Travis CI</system>
-		<url>https://travis-ci.org/tinevez/TrackMate-TrackAnalysis</url>
+		<system>GitHub Actions</system>
+		<url>https://github.com/tinevez/TrackMate-TrackAnalysis/actions</url>
 	</ciManagement>
 
 	<properties>
